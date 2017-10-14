@@ -17,16 +17,15 @@
 
 ### Sobre el profesor
 
-![panda_developer](https://pbs.twimg.com/media/C4I8FJzWQAUVNVR.jpg)
+![proud_of_campus](../imagenes/yomismo.jpg)
 
 **Bio:**
-"#Maker, #IoT, #OpenSource | #JavaScript, #Node, #Python | Co-organizador de [@os_weekends](http://osweekends.com/) | Profe en [@fictiziaescuela](http://www.fictizia.com/profesores/) | Mentor en [@TetuanValley](https://twitter.com/tetuanvalley) | Autor de [#JavaScriptInspirate](https://leanpub.com/javascript-inspirate) | Freelance | xIBMer"
+"#OpenSource | #JavaScript, #Node, #Golang | Co-fundador de [@os_weekends](http://osweekends.com/) | Profe en [@fictiziaescuela](http://www.fictizia.com/profesores/) |  A veces escribo en Medium cuando la ocasión me lo permite "
 
 **Redes Sociales:**
-- [Twitter](https://twitter.com/kom_256)
-- [Github](https://github.com/UlisesGascon)
-- [Linkedin](https://www.linkedin.com/in/ulisesgascon/)
-- [Youtube](https://www.youtube.com/channel/UC87WsLcLxxgV9ZJjoWf1pQw)
+- [Twitter](https://twitter.com/josheriff)
+- [Github](https://github.com/josheriff)
+- [Medium](https://medium.com/@josheriff)
 
 ### Hablemos de la web
 - [Evolution of the web](http://www.evolutionoftheweb.com/?hl=es)
