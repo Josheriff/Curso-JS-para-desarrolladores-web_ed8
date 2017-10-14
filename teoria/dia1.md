@@ -168,20 +168,17 @@
 - **Compiladores**
 	- [Coffeescript](http://coffeescript.org/)
 	- [Typescript](http://www.typescriptlang.org/)
+  - [Dart](https://www.dartlang.org/)
 	- [Livescript](http://livescript.net/)
 
 - **Librerías**
-	- [underscore](http://underscorejs.org/)
 	- [Jquery](https://jquery.com/)
-	- [Microjs](http://microjs.com/#)
-	- [Threejs](http://threejs.org/)
 	- [D3.js](http://d3js.org/)
 	- [Modernizr](https://modernizr.com/)
 	- [Lodash](https://lodash.com/)
 	- [mustache.js](https://github.com/janl/mustache.js)
 	- [handlebars.js](http://handlebarsjs.com/)
 	- [Firebase](http://firebase.com/)
-	- [p5js](http://p5js.org/)
 
 - **Frameworks (MV*)**
 	- [Angular.js](https://angularjs.org/)
@@ -190,6 +187,7 @@
 	- [KnockOut.js](http://knockoutjs.com/)
 	- [React](http://facebook.github.io/react/)
 	- [Meteor](https://www.meteor.com/)
+  - [Vue](https://vuejs.org/)
 
 - **JavaScript en el servidor**
  	- [Grunt](http://gruntjs.com/)
@@ -216,8 +214,10 @@
 - **Ruby**
   - [Ruby on Rails](http://www.rubyonrails.org.es/)
 - **Java**
-    - [Spring](http://projects.spring.io/spring-framework/)
-  - etc...  
+  - [Spring](http://projects.spring.io/spring-framework/)
+- **Golang**
+  - [Golang](https://golang.org/) 
+  - Gin-gonic  
 
 
 ### NoBackend
@@ -240,7 +240,7 @@
 
 ### Bases de datos
 
-- [Racionales](https://es.wikipedia.org/wiki/Base_de_datos_relacional)
+- [Relacionales](https://es.wikipedia.org/wiki/Base_de_datos_relacional)
   - [MySQL](https://es.wikipedia.org/wiki/MySQL)
   - [PostgreSQL](https://es.wikipedia.org/wiki/PostgreSQL)
   - [Oracle](https://es.wikipedia.org/wiki/Oracle)
@@ -274,6 +274,8 @@
 - Editores
   - [Sublime Text](https://www.sublimetext.com/)
   - [Atom](https://atom.io/)
+  - [VsCode](https://code.visualstudio.com/)
+  - [WebStorm](https://www.jetbrains.com/webstorm/)
   - [Brakets](http://brackets.io/)
   - [Notepad++](https://notepad-plus-plus.org/)
   - [Dreamweaver](https://es.wikipedia.org/wiki/Adobe_Dreamweaver)
@@ -291,8 +293,8 @@
 - Buenos Días, Madrid
 - NYTimes - Hardcover Fiction
 - NYTimes - Best Sellers
-- [IMBD & AJAX](http://codepen.io/ulisesgascon/pen/LNJwwo)
-- [Spotify - Encuentra artistas similares](http://codepen.io/ulisesgascon/pen/aNaeaa)
+- AJAX consume API de Twitch
+- AJAX consume API sugerida por alumnado :D
 
 
 
@@ -509,33 +511,6 @@ Git cacheará la sesión y no os preguntará el usuario o la password durante 99
   - Comunicación Serial
   - Gestión de dispositivos externos
   - No necesita HTTP
-
-- **[Raspi - System Info to Firebase](https://github.com/UlisesGascon/raspberrypi-system-info-data-to-firebase)**
-  - Partiendo de otro repositorio/proyecto. 
-  - Monitorización del sistema
-  - Uso de comandos de terminal
-  - Gestión de procesos inestables
-  - Integración con soluciones No-backend
-  - Tiempo Real
-  - No necesita HTTP
- 
-- **[IT Pulse](https://github.com/UlisesGascon/twitter-sentiments)**
-  - Partiendo de otro repositorio/proyecto.
-  - APIs de terceros
-  - Stream directo de datos
-  - Servidor Http
-  - Tiempo Real y sincronía con WebSockets
-  - Eventos
-  - Evaluación semántica de la información
-  - Sin Bases de datos
-
-- **[MovieFire](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD)**
-  - Integración con soluciones No-Backend
-  - FrontEnd con Jade
-  - BackEnd Flexible y dinámico
-  - APIRest Cliente -> Servidor
-  - BackEnd con Express
-  - CORS y Ajax
 
 - **[AireMadrid](https://github.com/UlisesGascon/Aire-Madrid)**
   - Arquitectura alternativa en versiones anteriores
