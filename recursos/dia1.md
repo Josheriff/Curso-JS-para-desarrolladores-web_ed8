@@ -54,6 +54,7 @@
 	- [KnockOut.js](http://knockoutjs.com/)
 	- [React](http://facebook.github.io/react/)
 	- [Meteor](https://www.meteor.com/)
+  - [Vue](https://vuejs.org/)
 
 - **Guías de estilo**
   - [Idiomatic js](https://github.com/rwaldron/idiomatic.js/tree/master/translations/es_ES)
@@ -63,6 +64,7 @@
 - **Precompiladores**
   - [coffeescript](http://coffeescript.org/)
   - [typescript](http://www.typescriptlang.org/)
+  - [dart](https://www.dartlang.org/)
 
 - **Herramientas**
   - [JSHint](http://jshint.com/)
