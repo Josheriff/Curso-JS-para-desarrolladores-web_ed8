@@ -1,2 +1,0 @@
-var name = true;
- console.assert(true, "tu \"name\" es igual a \"true\" ");
