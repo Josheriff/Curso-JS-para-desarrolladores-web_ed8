@@ -35,23 +35,23 @@ Sobre el Curso
 
 Teoría y Recursos
 =================
-Teoría | Recursos
------------- | -------------
-[Clase 1](teoria/dia1.md) | [Clase 1](recursos/dia1.md)
-[Clase 2](teoria/dia2.md) | [Clase 2](recursos/dia2.md)
-[Clase 3](teoria/dia3.md) | [Clase 3](recursos/dia3.md)
-[Clase 4](teoria/dia4.md) | [Clase 4](recursos/dia4.md)
-[Clase 5](teoria/dia5.md) | [Clase 5](recursos/dia5.md)
-[Clase 6](teoria/dia6.md) | [Clase 6](recursos/dia6.md)
-[Clase 7](teoria/dia7.md) | [Clase 7](recursos/dia7.md)
-[Clase 8](teoria/dia8.md) | [Clase 8](recursos/dia8.md)
-[Clase 9](teoria/dia9.md) | [Clase 9](recursos/dia9.md)
-[Clase 10](teoria/dia10.md) | [Clase 10](recursos/dia10.md)
-[Clase 11](teoria/dia11.md) | [Clase 11](recursos/dia11.md)
-[Clase 12](teoria/dia12.md) | [Clase 12](recursos/dia12.md)
-[Clase 13](teoria/dia13.md) | [Clase 13](recursos/dia13.md)
-[Clase 14](teoria/dia14.md) | [Clase 14](recursos/dia14.md)
-[Clase 15](teoria/dia15.md) | Clase 15
+| Teoría                      | Recursos                      |
+| --------------------------- | ----------------------------- |
+| [Clase 1](teoria/dia1.md)   | [Clase 1](recursos/dia1.md)   |
+| [Clase 2](teoria/dia2.md)   | [Clase 2](recursos/dia2.md)   |
+| [Clase 3](teoria/dia3.md)   | [Clase 3](recursos/dia3.md)   |
+| [Clase 4](teoria/dia4.md)   | [Clase 4](recursos/dia4.md)   |
+| [Clase 5](teoria/dia5.md)   | [Clase 5](recursos/dia5.md)   |
+| [Clase 6](teoria/dia6.md)   | [Clase 6](recursos/dia6.md)   |
+| [Clase 7](teoria/dia7.md)   | [Clase 7](recursos/dia7.md)   |
+| [Clase 8](teoria/dia8.md)   | [Clase 8](recursos/dia8.md)   |
+| [Clase 9](teoria/dia9.md)   | [Clase 9](recursos/dia9.md)   |
+| [Clase 10](teoria/dia10.md) | [Clase 10](recursos/dia10.md) |
+| [Clase 11](teoria/dia11.md) | [Clase 11](recursos/dia11.md) |
+| [Clase 12](teoria/dia12.md) | [Clase 12](recursos/dia12.md) |
+| [Clase 13](teoria/dia13.md) | [Clase 13](recursos/dia13.md) |
+| [Clase 14](teoria/dia14.md) | [Clase 14](recursos/dia14.md) |
+| [Clase 15](teoria/dia15.md) | Clase 15                      |
 
 **[Extras](teoria/extra.md)**
 
