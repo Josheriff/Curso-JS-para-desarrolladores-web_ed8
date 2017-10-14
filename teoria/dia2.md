@@ -1,24 +1,5 @@
 # Clase 2
 
-## Eventos!
-
-**El próximo jueves día 1 de Junio... ¡No tenemos clase!**
-
-### Open Expo 2017
-
-![](http://picandocodigo.net/wp-content/uploads/2017/02/openexpo-2017.jpg)
-
-- [Programa](http://www.openexpo.es/oe2017/programa-y-horarios/)
-- [Registro](http://www.openexpo.es/oe2017/inscripcion/)
-	- codigo de descuento `ponenteinvita2017OE`
-- [Feria](http://www.openexpo.es/oe2017/catalogo-de-empresas/)
-- [Actividades](http://www.openexpo.es/oe2017/actividades/#)
-
-**Destacado:**
-- [Open Talent](https://www.meetup.com/es-ES/Hackathon-Lovers/events/240262571/)
-- [AireMAD](http://www.openexpo.es/session/airemad/)
-- [Open Awards](http://www.openexpo.es/oe2017/open-awards/)
-
 
 ### Pseudocódigo
 
