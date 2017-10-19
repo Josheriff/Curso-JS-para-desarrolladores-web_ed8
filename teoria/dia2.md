@@ -181,30 +181,41 @@ console.log(resultado);
 - Valor de su division
 - Valor de su producto
 ```
-Proceso calculosVarios
-	Escribir "El primer numero:"
-	Leer valor1
-	
-	Escribir "El segundo segundo numero:"
-	Leer valor2
-	
-	// Suma
-	calculo <- valor1+valor2
-	Escribir "El valor de la suma es: ", calculo
-	
-	// Resta
-	calculo <- valor1-valor2
-	Escribir "El valor de la resta es: ", calculo
-	
-	// División
-	calculo <- valor1/valor2
-	Escribir "El valor de la división es: ", calculo
-	
-	// Multiplicación
-	calculo <- valor1*valor2
-	Escribir "El valor de la multiplicación es: ", calculo
-	
-FinProceso
+// DECLARAMOS LAS FUNCIONES QUE LUEGO LLAMAREMOS
+
+procedimiento #suma @a y @b
+	devolver @a + @b
+
+procedimiento #resta @a y @b
+	devolver @a - @b
+
+procedimiento #multiplica @a y @b
+	devolver @a * @b
+
+procedimiento #divide @a y @b
+	devolver @a / @b
+
+// PEDIMOS LAS VARIABLES
+pedir @numero1
+pedir @numero2
+
+// LLAMAMOS LAS FUNCIONES CON LAS VARIABLES
+
+@resultadoSuma = #suma @numero1 y @numero2
+mostrar "El resultado de la suma es:"
+mostrar @resultadoSuma
+
+@resultadoResta = #resta @numero1 y @numero2
+mostrar "El resultado de la resta es:"
+mostrar @resultadoResta
+
+@resultadoProducto = #multiplica @numero1 y @numero2
+mostrar "El resultado del producto:"
+mostrar @resultadoProducto
+
+@resultadoDivision = #divide @numero1 y @numero2
+mostrar "El resultado de la division:"
+mostrar @resultadoDivision
 ```
 
 **2 -** Diseña un programa para calcular el porcentaje de hombres y mujeres en nuestro curso.
