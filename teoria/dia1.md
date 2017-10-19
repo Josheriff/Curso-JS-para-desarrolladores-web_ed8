@@ -20,7 +20,7 @@
 ![proud_of_campus](../imagenes/yomismo.jpg)
 
 **Bio:**
-"#OpenSource | #JavaScript, #Node, #Golang | Co-fundador de [@os_weekends](http://osweekends.com/) | Profe en [@fictiziaescuela](http://www.fictizia.com/profesores/) |  A veces escribo en Medium cuando la ocasión me lo permite "
+"#OpenSource | #JavaScript, #Node, #Golang and #Python fan & learning | Co-fundador de [@os_weekends](http://osweekends.com/) | Profe en [@fictiziaescuela](http://www.fictizia.com/profesores/) |  A veces escribo en Medium cuando la ocasión me lo permite "
 
 **Redes Sociales:**
 - [Twitter](https://twitter.com/josheriff)
