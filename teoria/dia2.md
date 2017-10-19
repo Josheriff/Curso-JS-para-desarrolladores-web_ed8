@@ -105,23 +105,26 @@
   - Mientras (while)
   Solo si se cumple la condicion se ejecutará
   ```
-	Mientras (expresion_logica) Hacer
-		(secuencia_de_acciones)
-	Fin Mientras
+	@contador = 5
+
+	repetir si @contador>0
+	@contador = @contador - 1
+	mostrar @contador
   ```
   - Para (for)
   Se ejecutará un número limitado de veces.
   ```
-	Para (variable_numerica)<-(valor_inicial) Hasta (valor_final) Con (Paso) paso Hacer
-		(secuencia_de_acciones)
-	Fin Para
+	@contador = 0
+	
+	repetir 5 // o repetir nº de veces en una variable
+	@contador = @contador + 1
+	mostrar @contador
   ```
-  - Repetir (Do... While)
-  Se ejecuta una vez al menos.
+  - For each
+  Se ejecuta por cada elemento en una lista (array).
   ```
-	Repetir
-		(secuencia_de_acciones)
-	Hasta Que (expresion_logica)
+	por cada @cosa en @lista
+	mostrar @cosa
   ```
 
 
