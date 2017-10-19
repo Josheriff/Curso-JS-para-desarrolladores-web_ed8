@@ -29,9 +29,8 @@ Como metodología de trabajo durante el curso, los alumnos desarrollarán como p
 Sobre el Curso
 =================
 * Horario: Martes y Jueves de 19h a 22h
-* Fechas: 25/05/2017 - 18/07/2017
-* Observaciones: 
-    * 1 de Junio no lectivo. [Open Expo](http://www.openexpo.es/)
+* Fechas: 19/10/2017 - 07/12/2017
+
 
 Teoría y Recursos
 =================
