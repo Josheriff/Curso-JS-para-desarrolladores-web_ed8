@@ -24,19 +24,7 @@
 
 - [@gingerCode en Github](https://github.com/GingerCode)
 
-**PSeInt:**
-
-![PSeInt_logo](http://pseint.sourceforge.net/logo-header.png)
-
-> ...una invitación a entrar en el maravilloso mundo de la programación...
-
-- [Descargar](http://pseint.sourceforge.net/descargas.php)
-- [Noticias](http://pseint.sourceforge.net/index.php?page=noticias.php)
-- [Documentacion](http://pseint.sourceforge.net/index.php?page=documentacion.php)
-- [Exportar](http://pseint.sourceforge.net/index.php?page=psexport.html)
-
-
-**Trabajando con PSeInt**
+**Trabajando con Ginger**
 
 - No utilizaremos:
   - Arreglos
@@ -73,58 +61,46 @@
 **Acciones Secuenciales:**
 -  Asignación
 ```
-	(variable)<-(expresion);
+	@variable = (expresion);
 	
 	// Otra opción
-	(variable) = (expresión); 
+	definir @variable = (expresión); 
 ```
 -  Lectura (asignacion desde el ambiente)
 ```
-	Leer (variable)
+	pedir (variable)
+// Mostrará una ventana con el nombre de la variable y un espacio para rellenar el valor de la variable
 ```
 -  Escritura (muestra en el ambiente)
 ```
-	Escribir (variable)
+	mostrar @variable
 ```
--  Otras
+-  Funciones o "procedimiento"
 ```
-	// Limpiar ventana
-	Borrar Pantalla; 
-	// Simulacion evento tecla
-	Esperar tecla; 
-	// Parar temporalmente
-	Esperar (numero) Segundos; 
+	procedimiento #nombre @argumento1 y @argumento2
+		haz algo (indentacion 4)
+
+	// ejemplo mostrar #multiplicar 2 y 2
 ```
 
 **Estructuras de control:**
 - Condicionales:
   - Simple (if)
   ```
-	Si (expresion_logica) Entonces
+	Si (expresion_logica) 
 		(acciones_por_verdadero)
-	Fin Si
+	
   ```
   - Valor por defecto (if... else)
   ```
 	Si (expresion_logica) Entonces
 		(acciones_por_verdadero)
-	Sino
+	pero si
 		(acciones_por_falso)
-	Fin Si
+	si no
+		(acciones_por_falso)
   ``` 
-  - Casos (Switch)
-  ```
-	Segun (variable_numerica) Hacer
-		(opcion_1):
-			(secuencia_de_acciones_1)
-		(opcion_2):
-			(secuencia_de_acciones_2)
-		(opcion_3):
-			secuencia_de_acciones_3)
-		De Otro Modo:
-			(secuencia_de_acciones_dom)
-	Fin Segun 
-  ```
+
 - Bucles:
   - Mientras (while)
   Solo si se cumple la condicion se ejecutará
