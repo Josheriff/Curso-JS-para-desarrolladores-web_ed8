@@ -151,19 +151,26 @@
 - Solución:
  - Pseudocódigo:
  ```
- Proceso areaTriangulo
- 	altura<-4
- 	base<-6
- 	resultado<-(base*altura)/2
- 	Escribir "El resultado es ", resultado
- FinProceso
+ procedimiento #areaTriangulo @base y @altura
+	@baseporaltura = @base*@altura
+	devolver @baseporaltura/2
+
+// ejemplo base 2 altura 3
+
+@resultado = #areaTriangulo 2 y 3
+mostrar @resultado
  ``` 
  - Código:
  ```javascript
- 	var altura = 4;
- 	var base = 6;
- 	var resultado = (base*altura)/2;
- 	console.log("El resultado es ", resultado);
+ 	
+	const baseporaltura = base*altura;
+	return baseporaltura/2;
+}
+
+// ejemplo base 2 altura 3
+
+resultado = areaTriangulo(2,3);
+console.log(resultado);
  ```
 
 ### Ejercicios
